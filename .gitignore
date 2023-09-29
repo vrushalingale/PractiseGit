@@ -1,2 +1,4 @@
 Secret Data.txt
-error.log
+*.log
+/dir/
+static/dir/
